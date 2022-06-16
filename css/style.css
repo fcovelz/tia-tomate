@@ -1,0 +1,205 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@200;400;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  font-family: "Raleway", sans-serif;
+}
+
+.function-tomato button {
+  border-radius: 50px;
+  border: 1px solid #686963;
+  color: #686963;
+  width: 20%;
+  height: 55px;
+  font-weight: 600;
+  font-size: 27px;
+}
+
+.logo-header {
+  height: 60px;
+}
+.logo-header img {
+  width: 200px;
+  padding: 10px 0 0 60px;
+}
+
+.title-header {
+  background-color: #E56353;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 400px;
+}
+.title-header p {
+  color: #FAFAFA;
+  font-weight: 100;
+  font-size: 3.125rem;
+}
+.title-header h2 {
+  color: #FAFAFA;
+  font-size: 3.125rem;
+}
+
+.organic-tomato {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #A0A0A0;
+  padding-top: 80px;
+  color: #FAFAFA;
+}
+.organic-tomato img {
+  width: 75%;
+}
+.organic-tomato h2 {
+  padding-top: 20px;
+  font-size: 2.5rem;
+}
+.organic-tomato .text1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 40%;
+  font-size: 1rem;
+  font-weight: 400;
+  padding: 20px 0 50px 0;
+}
+.organic-tomato .text1 p {
+  padding: 10px 0 10px 0;
+}
+
+.limache-tomato {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #FAFAFA;
+  padding-top: 80px;
+  color: #686963;
+}
+.limache-tomato img {
+  width: 75%;
+}
+.limache-tomato h2 {
+  padding-top: 20px;
+  font-size: 2.5rem;
+}
+.limache-tomato .text1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 40%;
+  font-size: 1rem;
+  font-weight: 400;
+  padding: 20px 0 50px 0;
+}
+.limache-tomato .text1 p {
+  padding: 10px 0 10px 0;
+}
+
+.about-us {
+  background-color: #E56353;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 200px;
+}
+.about-us h2 {
+  color: #FAFAFA;
+  font-size: 3.125rem;
+}
+
+.javiera {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #686963;
+  padding-top: 80px;
+}
+.javiera img {
+  width: 20%;
+}
+.javiera h2 {
+  padding-top: 20px;
+  font-size: 2.5rem;
+}
+.javiera .text2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 40%;
+  font-size: 1rem;
+  font-weight: 400;
+  padding: 20px 0 50px 0;
+}
+.javiera .text2 p {
+  padding: 10px 0 10px 0;
+}
+
+.roberto {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #686963;
+  padding-top: 20px;
+}
+.roberto img {
+  width: 20%;
+}
+.roberto h2 {
+  padding-top: 20px;
+  font-size: 2.5rem;
+}
+.roberto .text2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 40%;
+  font-size: 1rem;
+  font-weight: 400;
+  padding: 20px 0 50px 0;
+}
+.roberto .text2 p {
+  padding: 10px 0 10px 0;
+}
+
+.function-tomato {
+  background-color: #E56353;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 200px;
+}
+.function-tomato h2 {
+  color: #FAFAFA;
+  font-size: 3.125rem;
+}
+.function-tomato h2 {
+  padding-bottom: 20px;
+}
+
+footer {
+  background-color: #686963;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+footer img {
+  width: 200px;
+}
+
+/*# sourceMappingURL=style.css.map */

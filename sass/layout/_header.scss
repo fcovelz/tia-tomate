@@ -1,0 +1,28 @@
+
+.logo-header {
+    height: 60px;
+   
+    img{
+    width: 200px;
+    padding: 10px 0 0 60px;
+    }
+}
+.title-header{
+    background-color: $jelly-bean;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 400px;
+    
+    p{  
+        color: $snow;
+        font-weight: 100;
+        font-size: 3.125rem;
+    }
+    h2{
+        color: $snow;
+        font-size: 3.125rem;
+    }
+}
+
